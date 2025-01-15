@@ -32,5 +32,9 @@ ARIMAX Backtesting: Visualized forecasted vs actual values for the testing perio
 Outputs
 
 OLS Regression Metrics: R-squared and RMSE values to assess the linear regression model.
+
 ARIMAX Backtesting: MSE to evaluate the ARIMAX model's forecasting accuracy.
+
 Sensitivity Analysis: Forecasted revenue under different economic scenarios.
+
+445
